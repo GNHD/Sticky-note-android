@@ -1,4 +1,4 @@
-# Sticky-Note-Android Application 📒📱
+# Sticky Note Android Application 📒📱
 
 Welcome to the **Sticky Note Application**! This project is designed to help users manage notes in an efficient and intuitive manner. It's simple yet powerful, providing a streamlined experience for note-taking on the go. Dive into the details below to learn more about the features, tech stack, and setup process.
 
@@ -45,3 +45,22 @@ Here's a sneak peek at our UI:
 
 ![image](https://github.com/user-attachments/assets/003873b8-905e-4418-8c0c-e6a30cde721c)
 ![image](https://github.com/user-attachments/assets/ef4df29e-e3ec-4fb8-9dcb-ea20b151cd7d)
+
+
+## __*Contribution Guidelines 🤝*__
+We love contributions! Feel free to submit pull requests or open issues for new features, bugs, or improvements.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## __*License 📄*__
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project as needed.
+
+## __*Contact Us ✉️*__
+- __*Developer*__: Sarang S Nair - [LinkedIn](https://www.linkedin.com/in/sarangsnair1621/)
+
+Feel free to reach out if you have any questions, suggestions, or just want to say hello! 😊
+
