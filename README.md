@@ -16,7 +16,7 @@ Follow these steps to get the Sticky Note Application running on your local mach
 
 1. **Clone the Repository**:
    ```bash
-   git clone git@github.com:sarangs1621/sticky-note-app.git
+   git clone git@github.com:GNHD/Sticky-note-android.git
    ```
 2. **Open in Android Studio**:
    - Launch Android Studio and open the cloned project.
